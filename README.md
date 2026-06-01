@@ -18,5 +18,5 @@ https://weather-app-three-orpin-32.vercel.app/
 - OpenWeather API
 
 ## 👩‍💻 Author
-Priyani
+Priyani,
 Feel free to connect and provide feedback!
